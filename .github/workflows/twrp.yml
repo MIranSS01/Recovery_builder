@@ -11,7 +11,7 @@ env:
   # (required) device codename i.e: sweet mojito.. 
   DEVICE: LE7
   # (required) device tree link with branch if exists
-  DT_LINK: https://github.com/mastersenpai0405/twrp_device_tecno_LE7
+  DT_LINK: https://github.com/MIranSS01/twrp_device_tecno_LE7
   # (required) who made your phone ? 
   MANUFACTURER: Tecno
   # (required) recovery partiton = recovery, else (no recovery partition): boot 
